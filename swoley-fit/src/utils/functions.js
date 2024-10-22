@@ -20,7 +20,7 @@ export function generateWorkout(args) {
     let scheme = goal
     let sets = SCHEMES[scheme].ratio
         .reduce((acc, curr, index) => {
-            //make this compound and exercise muscle -> array of objects and destructure in loop.
+            //make this compound and exercise muscle -> array of objects and destructure in loop
             return [
                 ...acc,
                 ...[...Array(parseInt(curr)).keys()].map((val) =>
