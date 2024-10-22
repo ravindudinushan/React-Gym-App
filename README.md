@@ -1,2 +1,2 @@
 # React-Gym-App
- The Ultimate gym training app built with react & tailwindCSS.
+ The Ultimate Gym training app built with react & tailwindCSS.
