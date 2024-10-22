@@ -39,7 +39,7 @@ export const WORKOUTS = {
     }
 }
 
-//write a function that flattens this thing with all the variants.
+//write a function that flattens this thing with all the variants
 //if athome, then have to specify equipment (if required otherwise bodyweight)
 //add instructions for substitutions (at home substitutions) for weights etc
 //variant is just going to be gym (forget about home stuff as long as one of the variants is
